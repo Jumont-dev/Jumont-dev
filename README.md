@@ -33,7 +33,7 @@ Atualmente atuo como estagiária em desenvolvimento de software, com foco em **A
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jumont-dev&show_icons=true&theme=radium&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=Jumont-dev&show_icons=true&theme=radium&include_all_commits=true" />
 </div>
 
 ---
