@@ -34,7 +34,7 @@ Atualmente atuo como estagiária em desenvolvimento de software, com foco em **A
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=radium"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumont-dev-GITHUB&layout=compact&theme=radium"/>
 </div>
 
 ---
